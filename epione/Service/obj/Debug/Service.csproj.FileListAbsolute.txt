@@ -1,0 +1,12 @@
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\Service.dll.config
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\Service.dll
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\Service.pdb
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\EntityFramework.dll
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\EntityFramework.xml
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\obj\Debug\Service.dll
+C:\Users\medma\Documents\Visual Studio 2015\Projects\PIDEV\epione\Service\obj\Debug\Service.pdb
